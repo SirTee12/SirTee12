@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SirTee12
+- 👋 Hi, I’m Ahmad
 - 👀 I’m a data scientist
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Data science projects
